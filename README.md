@@ -14,6 +14,7 @@
 
 ###### Languages and Tools
 
-![Javascript](https://i.imgur.com/XiVREpd.png)
+![JavaScript](https://i.imgur.com/XiVREpd.png)
+![TypeScript](https://i.imgur.com/0tIFxOT.png)
 ![NodeJS](https://i.imgur.com/HIDzZr9.pngg)
 
