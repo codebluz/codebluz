@@ -6,7 +6,7 @@
 
 - 💻 I’m developer since 2022
 - ⚛️ JavaScript | NodeJS
-- 🚀 I’m General Support Analyst & Squad Lead at Take Blip
+- 🚀 I’m Backend Developer at Takeblip
 - 📝 I'm gratuated in Information Systems
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bruno-luz-899b5723/)
 
