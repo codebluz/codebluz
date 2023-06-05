@@ -5,8 +5,8 @@
 ###### About me
 
 - 💻 I’m developer since 2022
-- ⚛️ JavaScript | NodeJS
-- 🚀 I’m Backend Developer at Takeblip
+- ⚛️ JavaScript | TypeScript | NodeJS | ReactJS
+- 🚀 I’m Backend Developer at Sinch
 - 📝 I'm gratuated in Information Systems
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bruno-luz-899b5723/)
 
